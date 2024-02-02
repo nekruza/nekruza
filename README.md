@@ -1,6 +1,5 @@
-### Hi there, I am Nekruz 👋
+## Hi there, I am Nekruz 👋
 
-### 💫 About Me:
 🚀 Enthusiastic about leveraging technology for positive change<br>🤝 Open to collaboration on exciting projects
 
 ### 💻 Tech Stack:
@@ -11,18 +10,7 @@
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)](#) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)](#) [![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)](#) [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)](#) [![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](#) [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](#) [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)](#) [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](#) [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)](#)
 [![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)](#) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](#) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](#) [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)](#)
-### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=nekruza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nekruza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![Trophy 1](https://github-profile-trophy.vercel.app/?username=nekruza&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🏆 GitHub Stats:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nekruza&theme=dark&hide_border=false" height="200px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekruza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200px"/>
 
 
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=nekruza&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
