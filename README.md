@@ -12,6 +12,6 @@
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](#) [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](#) [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)](#) [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](#) [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)](#)
  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](#)
 ### <img width="26px" align="absbottom" src="https://media.giphy.com/media/c8knYYZ5vzC8V6tpMI/giphy.gif"> GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nekruza&theme=dark&hide_border=false" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekruza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nekruza&theme=react&hide_border=false" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekruza&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px"/>
 
 
